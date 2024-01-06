@@ -9,17 +9,17 @@ The objective of this project is to gain hands-on experience in designing and si
 # Specifications
 
 1. Introduction
-• Provide a brief introduction to digital modulation techniques, including ASK, FSK, PSK, and QPSK.
-• Explain the importance of modulation in digital communication systems.
+- • Provide a brief introduction to digital modulation techniques, including ASK, FSK, PSK, and QPSK.
+- • Explain the importance of modulation in digital communication systems.
 
 2. Simulink Model Setup
-• Create a new Simulink model.
-• Set up the simulation parameters (e.g., sample time, simulation duration).
+- • Create a new Simulink model.
+- • Set up the simulation parameters (e.g., sample time, simulation duration).
 
 3. ASK Modulation
-• Add an ASK modulation block to the Simulink model.
-• Configure the ASK modulation parameters (e.g., carrier frequency, modulation index).
-• Connect the ASK modulator to a random data source.
+- • Add an ASK modulation block to the Simulink model.
+- • Configure the ASK modulation parameters (e.g., carrier frequency, modulation index).
+- • Connect the ASK modulator to a random data source.
 
 4. FSK Modulation
 • Add an FSK modulation block to the Simulink model.
