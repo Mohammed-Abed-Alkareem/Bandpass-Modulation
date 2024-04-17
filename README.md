@@ -55,15 +55,6 @@ The objective of this project is to gain hands-on experience in designing and si
 - Compare the performance of ASK, FSK, PSK, and QPSK under different channel conditions.
 
   # Results
-  ## ASK
-
-  ## FSK
-
-  ## PSK
-
-
-  ## QPSK
-
   
 
 # Author
